@@ -1,0 +1,14 @@
+{
+  "name": "quickquery-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node server.js",
+    "init-db": "node init-db.js"
+  },
+  "dependencies": {
+    "compromise": "^14.14.4",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7"
+  }
+}
