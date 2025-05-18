@@ -3,42 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>QuickQuery - SQL Assistant</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #f9f9f9;
-      margin: 20px;
-      color: #333;
-    }
-    h1, h2 {
-      color: #2c3e50;
-    }
-    h1 {
-      font-size: 2rem;
-      margin-top: 1.5em;
-    }
-    h2 {
-      font-size: 1.4rem;
-      margin-top: 1.2em;
-    }
-    ul {
-      margin-left: 1.5em;
-    }
-    code {
-      background: #1e1e1e;
-      color: #00ff90;
-      padding: 4px 8px;
-      border-radius: 4px;
-      display: inline-block;
-      font-size: 0.95em;
-    }
-    .highlight {
-      font-weight: bold;
-      font-size: 1.1rem;
-      color: #e67e22;
-    }
-  </style>
+ 
 </head>
 <body>
 
